@@ -21,11 +21,11 @@ The program performs the following steps:
    - Ensure you have Java installed on your system.
    - Navigate to the project's root directory and compile the Java file:
      ```bash
-     javac src/main/java/edu/keyin/stephencrocker/Main.java
+     javac src/main/java/edu/keyin/stephencrocker/TempAboveAvg.java
      ```
    - Run the program:
      ```bash
-     java -cp src/main/java edu.keyin.stephencrocker.Main
+     java -cp src/main/java edu.keyin.stephencrocker.TempAboveAvg
      ```
 
 2. **Example Run**:
