@@ -2,7 +2,7 @@ package edu.keyin.stephencrocker;
 
 import java.util.Scanner;
 
-public class Main {
+public class TempAboveAvg {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Please enter the number of days ");
